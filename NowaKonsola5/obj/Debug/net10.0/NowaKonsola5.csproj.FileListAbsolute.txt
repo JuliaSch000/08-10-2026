@@ -1,0 +1,14 @@
+C:\Users\s37673\osmypazdziernika\NowaKonsola5\bin\Debug\net10.0\NowaKonsola5.exe
+C:\Users\s37673\osmypazdziernika\NowaKonsola5\bin\Debug\net10.0\NowaKonsola5.deps.json
+C:\Users\s37673\osmypazdziernika\NowaKonsola5\bin\Debug\net10.0\NowaKonsola5.runtimeconfig.json
+C:\Users\s37673\osmypazdziernika\NowaKonsola5\bin\Debug\net10.0\NowaKonsola5.dll
+C:\Users\s37673\osmypazdziernika\NowaKonsola5\bin\Debug\net10.0\NowaKonsola5.pdb
+C:\Users\s37673\osmypazdziernika\NowaKonsola5\obj\Debug\net10.0\NowaKonsola5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37673\osmypazdziernika\NowaKonsola5\obj\Debug\net10.0\NowaKonsola5.AssemblyInfoInputs.cache
+C:\Users\s37673\osmypazdziernika\NowaKonsola5\obj\Debug\net10.0\NowaKonsola5.AssemblyInfo.cs
+C:\Users\s37673\osmypazdziernika\NowaKonsola5\obj\Debug\net10.0\NowaKonsola5.csproj.CoreCompileInputs.cache
+C:\Users\s37673\osmypazdziernika\NowaKonsola5\obj\Debug\net10.0\NowaKonsola5.dll
+C:\Users\s37673\osmypazdziernika\NowaKonsola5\obj\Debug\net10.0\refint\NowaKonsola5.dll
+C:\Users\s37673\osmypazdziernika\NowaKonsola5\obj\Debug\net10.0\NowaKonsola5.pdb
+C:\Users\s37673\osmypazdziernika\NowaKonsola5\obj\Debug\net10.0\NowaKonsola5.genruntimeconfig.cache
+C:\Users\s37673\osmypazdziernika\NowaKonsola5\obj\Debug\net10.0\ref\NowaKonsola5.dll
