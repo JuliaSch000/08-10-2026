@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\shchool\project dump\8paz\08-10-2026-notMainUnfinished\NowaKonsola6\bin\Debug\net10.0\NowaKonsola6.exe
+C:\Users\admin\Desktop\shchool\project dump\8paz\08-10-2026-notMainUnfinished\NowaKonsola6\bin\Debug\net10.0\NowaKonsola6.deps.json
+C:\Users\admin\Desktop\shchool\project dump\8paz\08-10-2026-notMainUnfinished\NowaKonsola6\bin\Debug\net10.0\NowaKonsola6.runtimeconfig.json
+C:\Users\admin\Desktop\shchool\project dump\8paz\08-10-2026-notMainUnfinished\NowaKonsola6\bin\Debug\net10.0\NowaKonsola6.dll
+C:\Users\admin\Desktop\shchool\project dump\8paz\08-10-2026-notMainUnfinished\NowaKonsola6\bin\Debug\net10.0\NowaKonsola6.pdb
+C:\Users\admin\Desktop\shchool\project dump\8paz\08-10-2026-notMainUnfinished\NowaKonsola6\obj\Debug\net10.0\NowaKonsola6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\shchool\project dump\8paz\08-10-2026-notMainUnfinished\NowaKonsola6\obj\Debug\net10.0\NowaKonsola6.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\shchool\project dump\8paz\08-10-2026-notMainUnfinished\NowaKonsola6\obj\Debug\net10.0\NowaKonsola6.AssemblyInfo.cs
+C:\Users\admin\Desktop\shchool\project dump\8paz\08-10-2026-notMainUnfinished\NowaKonsola6\obj\Debug\net10.0\NowaKonsola6.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\shchool\project dump\8paz\08-10-2026-notMainUnfinished\NowaKonsola6\obj\Debug\net10.0\NowaKonsola6.dll
+C:\Users\admin\Desktop\shchool\project dump\8paz\08-10-2026-notMainUnfinished\NowaKonsola6\obj\Debug\net10.0\refint\NowaKonsola6.dll
+C:\Users\admin\Desktop\shchool\project dump\8paz\08-10-2026-notMainUnfinished\NowaKonsola6\obj\Debug\net10.0\NowaKonsola6.pdb
+C:\Users\admin\Desktop\shchool\project dump\8paz\08-10-2026-notMainUnfinished\NowaKonsola6\obj\Debug\net10.0\NowaKonsola6.genruntimeconfig.cache
+C:\Users\admin\Desktop\shchool\project dump\8paz\08-10-2026-notMainUnfinished\NowaKonsola6\obj\Debug\net10.0\ref\NowaKonsola6.dll

@@ -1,0 +1,14 @@
+C:\Users\s37673\NOWAKONSOLAAAAA\NowaKonsola2\bin\Debug\net10.0\NowaKonsola2.exe
+C:\Users\s37673\NOWAKONSOLAAAAA\NowaKonsola2\bin\Debug\net10.0\NowaKonsola2.deps.json
+C:\Users\s37673\NOWAKONSOLAAAAA\NowaKonsola2\bin\Debug\net10.0\NowaKonsola2.runtimeconfig.json
+C:\Users\s37673\NOWAKONSOLAAAAA\NowaKonsola2\bin\Debug\net10.0\NowaKonsola2.dll
+C:\Users\s37673\NOWAKONSOLAAAAA\NowaKonsola2\bin\Debug\net10.0\NowaKonsola2.pdb
+C:\Users\s37673\NOWAKONSOLAAAAA\NowaKonsola2\obj\Debug\net10.0\NowaKonsola2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s37673\NOWAKONSOLAAAAA\NowaKonsola2\obj\Debug\net10.0\NowaKonsola2.AssemblyInfoInputs.cache
+C:\Users\s37673\NOWAKONSOLAAAAA\NowaKonsola2\obj\Debug\net10.0\NowaKonsola2.AssemblyInfo.cs
+C:\Users\s37673\NOWAKONSOLAAAAA\NowaKonsola2\obj\Debug\net10.0\NowaKonsola2.csproj.CoreCompileInputs.cache
+C:\Users\s37673\NOWAKONSOLAAAAA\NowaKonsola2\obj\Debug\net10.0\NowaKonsola2.dll
+C:\Users\s37673\NOWAKONSOLAAAAA\NowaKonsola2\obj\Debug\net10.0\refint\NowaKonsola2.dll
+C:\Users\s37673\NOWAKONSOLAAAAA\NowaKonsola2\obj\Debug\net10.0\NowaKonsola2.pdb
+C:\Users\s37673\NOWAKONSOLAAAAA\NowaKonsola2\obj\Debug\net10.0\NowaKonsola2.genruntimeconfig.cache
+C:\Users\s37673\NOWAKONSOLAAAAA\NowaKonsola2\obj\Debug\net10.0\ref\NowaKonsola2.dll
